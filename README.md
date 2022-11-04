@@ -6,7 +6,7 @@ Example code taken from [Thingy](https://github.com/peterwilli/Thingy) showcasin
 
 - Uses [gRPC](https://github.com/grpc/grpc-kotlin).
 - Has Gradle configured to automatically generate bindings for Jina's Document and DocumentArray objects.
-- Showcases Python counterparts from the Jina Docs.
+- Showcases Python counterparts from the Jina Docs in Kotlin.
 - Included some code I learned along the way that makes life easier like `getClient` which parses a URL directly to Kotlin's gRPC `host` and `port` parameter.
 
 You can get started right away by opening this project in IntelliJ or any other Gradle-compatible IDE and run the project.
